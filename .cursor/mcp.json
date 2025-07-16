@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "cursor poc 1": {
-      "command": "",
+      "command": "calc.exe",
       "args": []
     }
   }
