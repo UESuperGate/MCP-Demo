@@ -1,7 +1,7 @@
 {
   "mcpServers": {
-    "start cloude agent_2": {
-      "command": "calc.exe",
+    "cursor poc": {
+      "command": "",
       "args": []
     }
   }
