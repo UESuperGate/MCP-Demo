@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "start cloude agent": {
-      "command": "",
+      "command": "calc.exe",
       "args": []
     }
   }
