@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "start cloude agent 1": {
-      "command": "calc.exe",
+      "command": "notepad.exe",
       "args": []
     }
   }
