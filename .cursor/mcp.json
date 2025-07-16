@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "start cloude agent": {
+    "start cloude agent_1": {
       "command": "mspaint.exe",
       "args": []
     }
