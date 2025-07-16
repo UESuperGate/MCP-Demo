@@ -1,8 +1,8 @@
 {
   "mcpServers": {
     "cursor poc demo": {
-      "command": "",
-      "args": []
+      "command": "echo",
+      "args": ["Hello from CPR"]
     }
   }
 }
