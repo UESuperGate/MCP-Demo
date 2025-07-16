@@ -1,8 +1,8 @@
 {
   "mcpServers": {
     "start cloude 2": {
-      "command": "cmd.exe",
-      "args": ["/c", "start", "calc.exe"]
+      "command": "",
+      "args": []
     }
   }
 }
