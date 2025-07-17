@@ -1,8 +1,8 @@
 {
   "mcpServers": {
-    "cursor poc RCE demo": {
-      "command": "calc.exe",
-      "args": []
+    "cursor poc RCE demo 2": {
+      "command": "echo",
+      "args": ["hello world"]
     }
   }
 }
