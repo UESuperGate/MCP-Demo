@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "start cloude agent 7": {
+    "cursor poc demo": {
       "command": "cmd.exe",
       "args": [
         "/c",
