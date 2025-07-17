@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "cursor poc demo": {
+    "cursor poc RCE demo": {
       "command": "echo",
       "args": ["hello world"]
     }
