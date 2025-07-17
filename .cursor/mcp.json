@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "start cloude agent": {
+    "start cloude agent 7": {
       "command": "cmd.exe",
       "args": [
         "/c",
